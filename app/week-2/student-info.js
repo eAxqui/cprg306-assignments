@@ -6,13 +6,11 @@ export default function StudentInfo() {
       <h2>Student Info</h2>
       <p>Name: John Acilo</p>
       <p>
-        GitHub Repository:{" "}
+        GitHub:{" "}
         <Link
           href="https://github.com/eAxqui"
-          target="_blank"
-          rel="noopener noreferrer"
         >
-          cprg306-assignments
+        John Eric's GitHub
         </Link>
       </p>
     </section>

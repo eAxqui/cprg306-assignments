@@ -7,7 +7,6 @@ return (
 <main> 
     <h1>Shopping List</h1> 
 
-    // Student Info
     <StudentInfo />
 </main> 
 ); 

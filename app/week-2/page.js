@@ -5,7 +5,10 @@ import StudentInfoComponent from '@/components/StudentInfoComponent';
 export default function Page() { 
 return ( 
 <main> 
-<h1>Shopping List</h1> 
+    <h1>Shopping List</h1> 
+
+    // Student Info
+    <StudentInfoComponent />
 </main> 
 ); 
 } 

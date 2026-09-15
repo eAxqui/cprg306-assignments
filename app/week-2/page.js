@@ -1,5 +1,5 @@
 // src/app/dashboard/page.js
-import StudentInfoComponent from '@/components/StudentInfoComponent';
+import StudentInfo from "./student-info";
 
 
 export default function Page() { 
@@ -8,7 +8,7 @@ return (
     <h1>Shopping List</h1> 
 
     // Student Info
-    <StudentInfoComponent />
+    <StudentInfo />
 </main> 
 ); 
 } 
